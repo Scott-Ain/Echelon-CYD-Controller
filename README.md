@@ -3,6 +3,9 @@
 Turn your Echelon exercise bike into a fully functional Smart Trainer compatible with Zwift, MyWhoosh, TrainerRoad, and more, using an ESP32 Cheap Yellow Display (CYD). 
 
 This custom Arduino firmware bridges the proprietary Bluetooth protocol of Echelon bikes and broadcasts standard **Bluetooth FTMS (Fitness Machine Service)**. It also provides a sleek, real-time touchscreen dashboard.
+![2.8inch CYD Dashboard](Echelon_CYD_Dashboard.jpg)
+![Connecting in MyWhoosh](MyWhoosh Connection.png)
+
 
 ## 🚀 Features
 * **Real-Time Dashboard:** Displays Speed (mph), Cadence (rpm), Time, Distance (miles), Resistance (0-32), and Estimated Power (Watts).
